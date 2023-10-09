@@ -1,0 +1,24 @@
+{
+  "name": "serverless-aws-multiple-api-gateway-template",
+  "version": "1.0.0",
+  "description": "Serverless template for multiple api gateway pattern with AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RandomSoftwareSL/serverless-aws-multiple-api-gateway-template.git#serverless-aws-multiple-api-gateway-template"
+  },
+  "keywords": [
+    "AWS",
+    "Serverless",
+    "API"
+  ],
+  "author": "Random Software SL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RandomSoftwareSL/serverless-aws-multiple-api-gateway-template/issues"
+  },
+  "homepage": "https://github.com/RandomSoftwareSL/serverless-aws-multiple-api-gateway-template/tree/serverless-aws-multiple-api-gateway-template#readme"
+}
